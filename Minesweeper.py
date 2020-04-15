@@ -20,3 +20,4 @@ class Cell():
     anzMinenDrumrum = int = 0
 
     def show(self):
+        pass
